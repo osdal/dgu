@@ -1,0 +1,14 @@
+nav img {
+  width: 50px; }
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #6a7d90;
+  color: #fff;
+  font-weight: 900;
+  padding: 10px; }
+
+/*# sourceMappingURL=nav.css.map */

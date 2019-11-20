@@ -1,0 +1,1 @@
+{"version":3,"file":"header.css","sources":["blocks/header.scss"],"sourcesContent":["header {\r\n    background: url('../img/header.png')  no-repeat;\r\n    background-size: contain;\r\n    height: 280px;\r\n}"],"names":[],"mappings":"AAAA,AAAA,MAAM,CAAC;EACH,UAAU,EAAE,wBAAwB,CAAE,SAAS;EAC/C,eAAe,EAAE,OAAO;EACxB,MAAM,EAAE,KAAK,GAChB"}

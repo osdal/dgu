@@ -1,0 +1,9 @@
+.banner {
+  display: flex; }
+
+.banner_item {
+  border: 1px solid black;
+  width: 23%;
+  margin: 1% 1.5% 1.5% 1.5%; }
+
+/*# sourceMappingURL=banner.css.map */

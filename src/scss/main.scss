@@ -1,0 +1,42 @@
+@import 'lib';
+@import 'variables';
+@import 'media';
+@import 'blocks/header';
+@import 'blocks/nav';
+@import 'blocks/content';
+@import 'blocks/footer';
+// @import 'mixins';
+// @import 'fonts';
+
+
+
+// @import 'blocks/banner';
+// @import 'blocks/content_center';
+// @import 'blocks/recall';
+// @import 'blocks/services';
+// @import 'blocks/prices';
+// @import 'blocks/contacts';
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 10px;
+    font-family: 'Sans-serif';
+}
+
+
+
+.error {
+    color: red;
+    display: inline-block;
+}
+
+.recall_bottom {
+    position: relative;
+}
+
+#phoneNumber-error {
+    position: absolute;
+    top: 40px;
+}

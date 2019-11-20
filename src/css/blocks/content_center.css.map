@@ -1,0 +1,1 @@
+{"version":3,"file":"content_center.css","sources":["blocks/content_center.scss"],"sourcesContent":[".content_center {\r\n    width: 55%;\r\n}"],"names":[],"mappings":"AAAA,AAAA,eAAe,CAAC;EACZ,KAAK,EAAE,GAAG,GACb"}

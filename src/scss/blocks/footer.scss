@@ -1,0 +1,11 @@
+footer {
+    display: flex;
+    background: hsl(212, 66%, 63%);
+    color: #fff;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.contacts, .adress {
+    width: 50%;
+}
